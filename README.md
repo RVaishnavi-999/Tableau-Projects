@@ -14,5 +14,11 @@ This is a basic analysis to understand:
 ![Dashboard 1](https://user-images.githubusercontent.com/69259777/206843131-644980f9-01ba-475a-82f7-48fde58bb484.png)
 
 ### Sales analysis Dashboard
+1. Revenue per state
+2. Revenue based on Month of the year
+3. Revenue based on Age
+4. Quantity-Discount Percentage Correlation
+5. Percentage of revenue per region (Donut chart: Customised)
+6. Revenue per category and gender (Butterfly chart : customised)
 ![Screenshot 2022-12-11 002536](https://user-images.githubusercontent.com/69259777/206871016-6dc4fea8-8eba-4d6c-b528-c6d0ac97a2f7.jpg)
 
