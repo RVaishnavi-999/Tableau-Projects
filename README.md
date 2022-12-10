@@ -1,7 +1,7 @@
 # Tableau-Projects
 
 1. Airbnb Dashboard
-2. Customer Analysis Dashboard
+2. Sales Analysis Dashboard
 
 ### Airbnb Dashboard
 This is a basic analysis to understand:
@@ -12,3 +12,7 @@ This is a basic analysis to understand:
 5. To analyze the most profitable season of the year to rent houses
 
 ![Dashboard 1](https://user-images.githubusercontent.com/69259777/206843131-644980f9-01ba-475a-82f7-48fde58bb484.png)
+
+### Sales analysis Dashboard
+![Screenshot 2022-12-11 002536](https://user-images.githubusercontent.com/69259777/206871016-6dc4fea8-8eba-4d6c-b528-c6d0ac97a2f7.jpg)
+
