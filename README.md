@@ -1,5 +1,8 @@
 # Tableau-Projects
 
+1. Airbnb Dashboard
+2. Customer Analysis Dashboard
+
 ### Airbnb Dashboard
 This is a basic analysis to understand:
 1. Average price per room
